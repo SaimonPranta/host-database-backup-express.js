@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"default_mongodb_add_id":{"$numberInt":"1"}},"name":"default_mongodb_add_id_1","background":true,"unique":true}],"uuid":"1598f355d0424b449687ac6309f21c37","collectionName":"payments","type":"collection"}

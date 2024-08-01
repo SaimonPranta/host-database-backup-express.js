@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a8066c6ff0b74765b874cc4c21a75412","collectionName":"withdrawschedules","type":"collection"}
